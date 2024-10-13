@@ -1,2 +1,6 @@
-# dashboard1
-Vessel Motion Dashboard
+# streamlit-dashboard-template
+Streamlit Dashboard Template for Python Web App - Data Science Apps
+
+![](stdashdark.png)
+
+![](stdashlight.png)
